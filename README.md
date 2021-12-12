@@ -5,7 +5,7 @@
 - 📫 How to reach me ... jesusfiguera20@gmail.com/figueraj196@gmail.com
 
 Hi my name is Jesus Figuera, i'm from Venezuela im currently 19 years old, im currently learning about web development. at 18 i started to learn about programming
-my first language was 'Pascal', last years october 2020, i decided to focus on programming. hopefully i can make a living out of something i love doing.
+my first language was 'Pascal' in october 2020, i decided to focus on programming. hopefully i can make a living out of something i love doing.
 
 
 <!---
